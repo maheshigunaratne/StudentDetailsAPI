@@ -1,0 +1,12 @@
+C:\Users\MaheshiG\source\repos\StudentServices\StudentDataAccess\bin\Debug\StudentDataAccess.dll.config
+C:\Users\MaheshiG\source\repos\StudentServices\StudentDataAccess\bin\Debug\StudentDataAccess.dll
+C:\Users\MaheshiG\source\repos\StudentServices\StudentDataAccess\bin\Debug\StudentDataAccess.pdb
+C:\Users\MaheshiG\source\repos\StudentServices\StudentDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\MaheshiG\source\repos\StudentServices\StudentDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MaheshiG\source\repos\StudentServices\StudentDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\MaheshiG\source\repos\StudentServices\StudentDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MaheshiG\source\repos\StudentServices\StudentDataAccess\obj\Debug\StudentDataAccess.csprojAssemblyReference.cache
+C:\Users\MaheshiG\source\repos\StudentServices\StudentDataAccess\obj\Debug\StudentDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\MaheshiG\source\repos\StudentServices\StudentDataAccess\obj\Debug\StudentDataAccess.csproj.CopyComplete
+C:\Users\MaheshiG\source\repos\StudentServices\StudentDataAccess\obj\Debug\StudentDataAccess.dll
+C:\Users\MaheshiG\source\repos\StudentServices\StudentDataAccess\obj\Debug\StudentDataAccess.pdb
